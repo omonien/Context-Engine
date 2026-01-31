@@ -67,7 +67,7 @@
 		display: inline-flex;
 		align-items: center;
 		justify-content: center;
-		animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+		animation: iconPulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
 	}
 
 	@keyframes iconPulse {
